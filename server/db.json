@@ -1,0 +1,34 @@
+{
+    "user": [{
+            "id": 10000,
+            "name": "gay鹏",
+            "age": 25,
+            "gender": "male"
+        },
+        {
+            "id": 10000,
+            "name": "gay鱼",
+            "age": 30,
+            "gender": "female"
+        },
+        {
+            "id": 10000,
+            "name": "罚明",
+            "age": 35,
+            "gender": "male"
+        }
+    ],
+    "book": [{
+            "id": 10000,
+            "name": "JavaScript从入门到精通",
+            "price": 9990,
+            "owner_id": 10000
+        },
+        {
+            "id": 10001,
+            "name": "Java从入门到放弃",
+            "price": 1990,
+            "owner_id": 10001
+        }
+    ]
+}
